@@ -1,2 +1,3 @@
 # cat_geneezy.github.io
-This is an assignment
+A simple website for an educational institution
+
